@@ -1,6 +1,6 @@
-# kivrosolutions_task1
+# Kivrosolutions_Task1
 
-# Data Cleaning & Formatting 
+## Data Cleaning & Formatting 
 
 This project represents my first task in data cleaning.  
 The goal was to improve the dataset structure and prepare it for future analysis.
